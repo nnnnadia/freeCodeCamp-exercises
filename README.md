@@ -12,3 +12,5 @@ This repository is a reference to exercises made in the freeCodeCamp courses. No
 ### [1.4 Learn HTML Forms by Building a Registration Form](/freeCodeCamp-exercises/1 Responsive Web Design/1.4 Learn HTML Forms by Building a Registration Form/index.html)
 
 ### [1.5 Learn the CSS Box Model by Building a Rothko Painting](/freeCodeCamp-exercises/1 Responsive Web Design/1.5 Learn the CSS Box Model by Building a Rothko Painting/index.html)
+
+### [1.6 Learn CSS Flexbox by Building a Photo Gallery](/freeCodeCamp-exercises/1 Responsive Web Design/1.6 Learn CSS Flexbox by Building a Photo Gallery/index.html)
