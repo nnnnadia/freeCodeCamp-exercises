@@ -6,7 +6,7 @@ This repository is a reference to exercises made in the freeCodeCamp courses. No
 ### [1.1 Learn HTML by Building a Cat Photo App](/freeCodeCamp-exercises/1 Responsive Web Design/1.1 Learn HTML by Building a Cat Photo App/index.html)
 <details>
   <summary>index.html</summary>
-  <embed type="text/html" src="../1 Responsive Web Design/1.1 Learn HTML by Building a Cat Photo App/index.html"  width="500" height="200">
+  <embed type="text/html" src="/freeCodeCamp-exercises/1 Responsive Web Design/1.1 Learn HTML by Building a Cat Photo App/index.html"  width="500" height="200">
 </details>
 
 ### [1.2 Learn Basic CSS by Building a Cafe Menu](/freeCodeCamp-exercises/1 Responsive Web Design/1.2 Learn Basic CSS by Building a Cafe Menu/index.html)
