@@ -71,7 +71,7 @@ This repository is a reference to exercises made in the freeCodeCamp courses. No
     </footer>
   </body>
 </html>
-</textarea
+</textarea>
 </details>
 
 ### [1.2 Learn Basic CSS by Building a Cafe Menu](/freeCodeCamp-exercises/1 Responsive Web Design/1.2 Learn Basic CSS by Building a Cafe Menu/index.html)
