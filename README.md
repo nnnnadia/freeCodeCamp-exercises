@@ -5,8 +5,8 @@ This repository is a reference to exercises made in the freeCodeCamp courses. No
 
 ### [1.1 Learn HTML by Building a Cat Photo App](/freeCodeCamp-exercises/1 Responsive Web Design/1.1 Learn HTML by Building a Cat Photo App/index.html)
 <details>
-  <summary>index.html</summary>
-<textarea disabled>
+  <summary>code</summary>
+```html index.html
 <!DOCTYPE html>
 
 <html lang="en">
@@ -71,7 +71,7 @@ This repository is a reference to exercises made in the freeCodeCamp courses. No
     </footer>
   </body>
 </html>
-</textarea>
+```
 </details>
 
 ### [1.2 Learn Basic CSS by Building a Cafe Menu](/freeCodeCamp-exercises/1 Responsive Web Design/1.2 Learn Basic CSS by Building a Cafe Menu/index.html)
