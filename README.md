@@ -16,3 +16,5 @@ This repository is a reference to exercises made in the freeCodeCamp courses. No
 ### [1.6 Learn CSS Flexbox by Building a Photo Gallery](/freeCodeCamp-exercises/1 Responsive Web Design/1.6 Learn CSS Flexbox by Building a Photo Gallery/index.html)
 
 ### [1.7 Learn Typography by Building a Nutrition Label](/freeCodeCamp-exercises/1 Responsive Web Design/1.7 Learn Typography by Building a Nutrition Label/index.html)
+
+### [1.8 Learn Accessibility by Building a Quiz](/freeCodeCamp-exercises/1 Responsive Web Design/1.8 Learn Accessibility by Building a Quiz/index.html)
